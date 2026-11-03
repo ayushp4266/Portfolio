@@ -216,3 +216,4 @@ export const creativeWorkStories = [
     metric: "Warm Tonal Curve"
   }
 ];
+

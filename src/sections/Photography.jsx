@@ -111,3 +111,4 @@ export default function Photography({ onOpenLightbox }) {
     </section>
   );
 }
+

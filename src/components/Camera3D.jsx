@@ -224,3 +224,4 @@ export default function Camera3D({ mode = 'video', onShutter }) {
     </div>
   );
 }
+
